@@ -1,0 +1,13 @@
+.currency {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+
+  & select {
+    width: 100px;
+    height: 30px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-bottom: 10px;
+  }
+}
