@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,SAAS,CAAC;EACR,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,WAAW;EAClC,aAAa,EAAE,MAAM;CAStB;;AAZD,AAKE,SALO,CAKL,MAAM,CAAC;EACP,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;EACZ,iBAAiB,EAAE,CAAC;EACpB,eAAe,EAAE,CAAC;EAClB,aAAa,EAAE,IAAI;CACpB",
-    "sources": [
-        "Currency.scss"
-    ],
-    "names": [],
-    "file": "Currency.css"
-}
